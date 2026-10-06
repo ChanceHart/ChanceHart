@@ -16,7 +16,7 @@ I build practical tools with AI and care about doing it safely. I use **Claude C
 
 | Project | What it is | Highlights |
 |---|---|---|
-| **[claude-session-saver](https://github.com/ChanceHart/claude-session-saver)** | A Claude Code hook that gives your AI agent a memory: every session saved as a searchable Markdown note | One-command install · secret redaction · 24 tests · CI on Windows, macOS, Linux |
+| **[claude-session-saver](https://github.com/ChanceHart/claude-session-saver)** | A Claude Code hook that gives your AI agent a memory: every session saved as a searchable Markdown note | One-command install · secret redaction · 25 tests · CI on Windows, macOS, Linux |
 | **[ChanceHart.github.io](https://github.com/ChanceHart/ChanceHart.github.io)** | My portfolio: case studies, real code and a working terminal | Hand-coded HTML/CSS/JS · strict Content-Security-Policy · no trackers |
 
 ## 🧰 Stack
