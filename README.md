@@ -16,6 +16,7 @@ I build practical tools with AI and care about doing it safely. I use **Claude C
 
 | Project | What it is | Highlights |
 |---|---|---|
+| **[home-soc-lab](https://github.com/ChanceHart/home-soc-lab)** | My home security operations center: Wazuh SIEM on Docker/WSL2 that watches my laptop and responds on its own | Quarantines bad files in ~2 s · blocks bad IPs in ~6 s · ransomware warning · weekly scans · MITRE ATT&CK-mapped |
 | **[claude-session-saver](https://github.com/ChanceHart/claude-session-saver)** | A Claude Code hook that gives your AI agent a memory: every session saved as a searchable Markdown note | One-command install · secret redaction · 25 tests · CI on Windows, macOS, Linux |
 | **[ChanceHart.github.io](https://github.com/ChanceHart/ChanceHart.github.io)** | My portfolio: case studies, real code and a working terminal | Hand-coded HTML/CSS/JS · strict Content-Security-Policy · no trackers |
 
